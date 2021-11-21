@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "ARweb",
+"productName": "Web AR",
 "productVersion": "0.1",
 "dataUrl": "ARweb.data.unityweb",
 "wasmCodeUrl": "ARweb.wasm.code.unityweb",
